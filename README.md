@@ -14,11 +14,11 @@ I'm a full stack developer from :fr:, born in :reunion: and currently living nea
 
 - :computer: I’m working as a full stack developer & UI/UX designer.
 
-- :paintbrush: Formerly I worked in webmarketing and created social media content.
+- :paintbrush: Formerly, I worked in web marketing and created social media contents.
 
-- :musical_note: I love music and I play guitar, but I learned various instruments when I was a kid, like drums or piano.
+- :musical_note: I love music, I listen to it constantly, and I learn to play guitar.
 
-- :video_game: I'm a huge PlayStation lover since their first console and my fave games are MGS3, GTA San Andreas and Cyberpunk.
+- :video_game: I'm a huge PlayStation lover since their first console and my fave games are MGS3, GTA San Andreas, The Last of Us and Cyberpunk.
 
 - :soccer: I'm a big fan of Olympique de Marseille :large_blue_circle: :white_circle:.
 
@@ -36,7 +36,6 @@ I'm a full stack developer from :fr:, born in :reunion: and currently living nea
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VsCode" alt="VsCode" width="40" height="40"/>
